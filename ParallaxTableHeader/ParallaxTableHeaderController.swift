@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ScrollToZoomImageViewController: UIViewController {
+class ParallaxTableHeaderController: UIViewController {
     
     
     var scrollImageHeight:CGFloat = 0.0
@@ -38,7 +38,7 @@ class ScrollToZoomImageViewController: UIViewController {
     }
 }
 
-extension ScrollToZoomImageViewController: UITableViewDelegate {
+extension ParallaxTableHeaderController: UITableViewDelegate {
     
     func scrollViewDidScroll(_ scrollView: UIScrollView) {
         
