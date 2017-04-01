@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ParallaxTableHeader"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "Zoom image when scrolling tableview downwards. Simple to integrate parallax effect."
 
  s.description  = "Zoom image when scrolling tableview downwards. Simple to integrate parallax effect."
