@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
 
 
-  s.source       = { :git => 'https://github.com/bhavukjain1/ParallaxTableHeader.git', :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/bhavukjain1/ParallaxTableHeader.git", :tag => "#{s.version}" }
 
 
 
